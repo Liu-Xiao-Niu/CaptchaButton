@@ -12,6 +12,7 @@
 			  
 			  <CaptchaButton 
 				ref="captcha"
+				:account = "account"
 			  />
 			  
 		  </p>

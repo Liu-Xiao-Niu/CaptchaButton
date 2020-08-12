@@ -17,11 +17,11 @@
 				type: String,
 				default: '获取验证码'
 			},
-			timeSlot: {
+			timeSlot: { //倒计时时长
 				type: Number,
 				default: 60
 			},
-			account: {
+			account: { //发送验证码的账号
 				type: String,
 				default: ''
 			},
