@@ -48,7 +48,7 @@
 					let url = '',param = {}
 					
 					axios.post(url,param).then((res) => { //发送验证码
-
+					
 						this.countDown() //发送成功开始倒计时
 						
 					})

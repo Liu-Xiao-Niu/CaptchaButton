@@ -13,6 +13,8 @@
 			  <CaptchaButton 
 				ref="captcha"
 				:account = "account"
+				defaultText = "获取手机验证码"
+				:timeSlot = "10"
 			  />
 			  
 		  </p>
